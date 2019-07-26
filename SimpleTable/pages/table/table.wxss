@@ -38,13 +38,13 @@
   align-items: center;
 }
 .td {
- width: 40%;
+ width: 34%;
   justify-content: center;
   align-items: center;
   color: #4f4f4f;
   display: flex;
   font-size: 25rpx;
-  height: 2.9rem;
+  height: 99%;
   border-bottom: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
 }
@@ -61,12 +61,12 @@
   background:#eff3f5;
 }
 .th {
-  width: 40%;
+  width: 34%;
   justify-content: center;
   align-items: center;
   color: #4f4f4f;
   display: flex;
-  height: 2.9rem;
+  height: 99%;
   font-weight: 600;
   border-bottom: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
